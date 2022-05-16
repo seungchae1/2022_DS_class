@@ -18,5 +18,17 @@
     <ClCompile Include="ch01\factorial.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch02\ArrayAndPointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch02\staticAllocation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch02\dynamicAllocation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch03\LinkedList.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
