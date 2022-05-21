@@ -33,5 +33,11 @@
     <ClCompile Include="ch03\LinkedList2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch04\stackArray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch04\stackLinkedList.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
