@@ -57,5 +57,8 @@
     <ClCompile Include="ch05\queueLinkedList.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch06\treeTraversalLinked.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
