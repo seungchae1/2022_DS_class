@@ -39,5 +39,23 @@
     <ClCompile Include="ch04\stackLinkedList.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch04\mazeSearch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch04\mazeRecursiveSearch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch04\mazeCreateRandom.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch05\QueueArray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch05\CircularQueue.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch05\queueLinkedList.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
