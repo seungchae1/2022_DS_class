@@ -182,7 +182,10 @@
     <ClCompile Include="ch05\queueLinkedList.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="ch06\treeTraversalLinked.c" />
+    <ClCompile Include="ch06\levelOrderTraversal1.c" />
+    <ClCompile Include="ch06\treeTraversalLinked.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
