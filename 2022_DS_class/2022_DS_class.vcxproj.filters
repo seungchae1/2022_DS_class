@@ -63,5 +63,17 @@
     <ClCompile Include="ch06\levelOrderTraversal1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch07\graphArray.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07\graphLinkedList.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07\KruskalMinSpannigTree.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07\PrimMinSpannigTree.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
