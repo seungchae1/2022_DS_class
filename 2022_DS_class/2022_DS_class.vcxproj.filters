@@ -75,5 +75,8 @@
     <ClCompile Include="ch07\PrimMinSpannigTree.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch08\insertionSort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
