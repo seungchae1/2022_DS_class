@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+void insertionSort(int* a, int n);
+
 int main() {
 	int a[] = { 5,17,27,1,8,3,4,20,30,7 };
 	int n = sizeof(a) / sizeof(int);
@@ -12,7 +14,7 @@ int main() {
 	return 0;
 }
 
-insertionSort(int *a, int n) {
+void insertionSort(int *a, int n) {
 	int i, j, key;
 	for (i = 1; i < n; i++) {
 		key = a[i];
