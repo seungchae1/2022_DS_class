@@ -81,5 +81,14 @@
     <ClCompile Include="ch08\shellSort.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch08\quickSort1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08\quickSort2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch08\heapSort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
