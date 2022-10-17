@@ -105,5 +105,8 @@
     <ClCompile Include="ch09\binarySearch.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch09\%27interpolationSearch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
