@@ -111,5 +111,8 @@
     <ClCompile Include="ch09\FibonacciSearch.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch09\stringSearch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
