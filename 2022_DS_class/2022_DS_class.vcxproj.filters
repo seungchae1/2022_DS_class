@@ -114,5 +114,11 @@
     <ClCompile Include="ch09\stringSearch.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch09\hashingDivider.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch10\depthFirstSearch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
